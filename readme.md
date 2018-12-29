@@ -5,7 +5,7 @@ pretrained model used to train custom model: ssd_inception_v2_coco
 
 ## how to run:
 - install opencv2 and tensorflow on your system
-- run object_detection_custom.py `python3 object_detection_custom --input_path <path to your input image>`
+- run object_detection_custom.py `python3 object_detection_custom.py --input_path <path to your input image>`
 - a window will open displaying your image with eyes highlighted
 - to close the window press any key \
 ![sample input](https://github.com/planetred-cc/eye_detection/blob/master/sample_input.jpg)
