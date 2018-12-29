@@ -58,10 +58,9 @@ def show_image(output,image):
 		line_width=2
 		#inserting text
 		cv2.putText(image,class_name,pos,font,font_size,font_color,line_width)
-		image=cv2.resize(image,(600,600))
-		cv2.imshow('asdfs',image)
-		cv2.waitKey(0)
-		break
+	image=cv2.resize(image,(600,600))
+	cv2.imshow('asdfs',image)
+	cv2.waitKey(0)
 	cv2.destroyAllWindows()
 	
 def main():
