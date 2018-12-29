@@ -12,5 +12,5 @@ pretrained model used to train custom model: ssd_inception_v2_coco
 ![sample output](https://github.com/planetred-cc/eye_detection/blob/master/sample_output.jpg)
 
 
-**the result may not be prefect as i neither had the data not the system that can crunch large amount of data. this model was trained on around 100 images and around 155000 steps and took 2 days to train**
+**the result may not be prefect as i neither had the data nor the system that can crunch large amount of data. this model was trained on around 100 images and around 155000 steps and took 2 days to train**
 
